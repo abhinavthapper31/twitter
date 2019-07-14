@@ -1,4 +1,4 @@
-#!/home/abhinav/Desktop/Projects/twitter/twitter/bin/python2
+#!/home/abhinav/Desktop/Projects/twitter-project/twitter/bin/python
 
 # $Id: rst2html.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

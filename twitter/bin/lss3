@@ -1,4 +1,4 @@
-#!/home/abhinav/Desktop/Projects/twitter/twitter/bin/python2
+#!/home/abhinav/Desktop/Projects/twitter-project/twitter/bin/python
 import boto
 from boto.exception import S3ResponseError
 from boto.s3.connection import OrdinaryCallingFormat

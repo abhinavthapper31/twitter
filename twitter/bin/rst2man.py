@@ -1,4 +1,4 @@
-#!/home/abhinav/Desktop/Projects/twitter/twitter/bin/python2
+#!/home/abhinav/Desktop/Projects/twitter-project/twitter/bin/python
 
 # Author: 
 # Contact: grubert@users.sf.net

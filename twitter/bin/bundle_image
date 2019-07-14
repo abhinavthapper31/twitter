@@ -1,4 +1,4 @@
-#!/home/abhinav/Desktop/Projects/twitter/twitter/bin/python2
+#!/home/abhinav/Desktop/Projects/twitter-project/twitter/bin/python
 from boto.manage.server import Server
 if __name__ == "__main__":
     from optparse import OptionParser
